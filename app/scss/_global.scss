@@ -8,10 +8,10 @@ html {
     box-sizing: inherit;
 }
 
-.box {
-    display: flex;
-    transition: all .3s;
-}
+// .box {
+//     display: flex;
+//     transition: all .3s;
+// }
 
 a {
     display: inline-block;
@@ -55,4 +55,8 @@ body{
     font-size: 36px;
     line-height: 60px;
      margin-bottom: 30px;
+}
+.rate-star{
+    display: inline-block;
+    margin-right: 13px;
 }
